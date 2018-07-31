@@ -1833,3 +1833,15 @@
     - Landing
     - Portfolio
   featured: false
+- title: Child-Care Atlas of Burgenland (an Austrian federal state)
+  description: >
+    The Child-Care Atlas shows a map of the quality of child-care in the communities of Burgenland as well as a list of child-care facilities. The SVG maps are procuced entirely using React on GatsbyJS. GatsbyJS served very well in provding separate URLs for all communities.
+  main_url: https://www.kinderbetreuungsatlas.at/Indikator
+  url: https://www.kinderbetreuungsatlas.at/
+  categories:
+    - Information
+    - Visualization
+    - Public services
+  built_by: Franz Knipp, qnipp GmbH
+  built_by_url: https://qnipp.com
+  featured: false
